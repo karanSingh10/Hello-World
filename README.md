@@ -1,2 +1,4 @@
 # Hello-World
-my first repository
+About me:
+Name - Karan 
+Hobby - Football
